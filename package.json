@@ -1,0 +1,24 @@
+{
+  "name": "task3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console-table-printer": "^2.11.2",
+    "process.argv": "^0.6.1",
+    "prompt-sync": "^4.2.0",
+    "random-js": "^2.1.0",
+    "random.js": "^0.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
